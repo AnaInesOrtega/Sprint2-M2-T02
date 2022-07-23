@@ -1,2 +1,2 @@
 # Sprint2-M2-T02
-Básics Python - Estructuras de control
+Básics Python - Estructures de control
